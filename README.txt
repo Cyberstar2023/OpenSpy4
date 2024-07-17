@@ -1,0 +1,1 @@
+NOTE : BEFORE RUNNING THE "Script.bat" file, RUN THE "install.bat" file, ELSE, IT'LL GIVE MODULE ERRORS....!!!! ~ A Penetration Tool By Yash.
